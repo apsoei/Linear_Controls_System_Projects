@@ -26,7 +26,7 @@ Click run to simulate controllers.
 For P5, comment out one of the following lines to test LQR or MRAC in AdaptiveController.py.
 
 `# customController = AdaptiveController(driver, lossOfThust)`
-`customController = LQRController(driver, lossOfThust)`
+`# customController = LQRController(driver, lossOfThust)`
 
 
 ### Tesla model 3 simulation from EKF SLAM.
