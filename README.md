@@ -5,7 +5,31 @@
 ### Description
 Control system simulations using webot.
 
-Tesla model 3 simulation from EKF SLAM.
+## Requirements.
+
+- Webot simulator https://www.cyberbotics.com/ version R2020b - rev 1.
+
+- Native Python (i.e anaconda version does not work with webot)
+
+- Numpy, Scipy, Matplotlib
+
+## To run.
+
+To run one of the projects.
+
+Open webot.
+
+Click open World within one of the project folders ( e.g) P1/code/worlds/ ).
+
+Click run to simulate controllers.
+
+For P5, comment out one of the following lines to test LQR or MRAC in AdaptiveController.py.
+
+`# customController = AdaptiveController(driver, lossOfThust)
+customController = LQRController(driver, lossOfThust)`
+
+
+### Tesla model 3 simulation from EKF SLAM.
 
 https://user-images.githubusercontent.com/50928257/115320727-64628080-a1bd-11eb-9e11-3da5aec181ce.mov
  
