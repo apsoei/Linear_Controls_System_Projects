@@ -16,12 +16,14 @@ Vechicle (Tesla Model 3) PID control simulation
 
 Trajectory plot
 
-[P1_Plot.pdf](https://github.com/jaeseoko/Linear_Controls_System_Projects/files/6339749/P1_Plot.pdf)
+![P1_Plot](https://user-images.githubusercontent.com/50928257/115320880-a390d180-a1bd-11eb-968b-43584c8ffce9.png)
 
 
 ## Project 2 (P2)
 
 Vechicle (Tesla Model 3) full-state feedback control simulation
+
+
 
 ## Project 3 (p3)
 
